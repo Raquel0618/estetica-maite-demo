@@ -1,0 +1,6 @@
+{
+  "name": "Salón de Belleza Maite",
+  "description": "Landing page oficial del Salón de Belleza Maite en Fuengirola. Servicios de peluquería, estética, uñas y depilación láser SHR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

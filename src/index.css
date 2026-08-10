@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Playfair Display', Georgia, Cambria, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-rose-soft: #fcf5f7;
+  --color-rose-dust: #f4d6db;
+  --color-rose-accent: #e07a8b;
+  --color-rose-deep: #be185d;
+  --color-rose-dark: #9d174d;
+}
+
+/* Natural Tones styling helpers */
+.bg-rose-watercolor {
+  background-color: #fcf5f7;
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(224, 122, 139, 0.12) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(244, 214, 219, 0.5) 0%, transparent 50%),
+    radial-gradient(circle at 50% 50%, rgba(252, 245, 247, 0.9) 0%, transparent 70%);
+}
+
+.bg-floral-pattern {
+  background-image: radial-gradient(#e07a8b 0.75px, transparent 0.75px);
+  background-size: 24px 24px;
+}
+
