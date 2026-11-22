@@ -3,7 +3,7 @@
 Prototipo funcional y caso de estudio interactivo desarrollado para la digitalización de servicios en el sector de la belleza y estética personal.
 
 ## 🔗 Demo Interactiva en Vivo
-👉 **[Ver la web en directo](https://salondebellezamaite.ai.studio)**
+👉 **https://estetica-maite-demo.vercel.app/**
 
 ---
 
